@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on LLMs for PT-BR
 - 👯 I’m looking to collaborate on Scala libs or PT-BR resources
 
-### 🤝 Connect with me: <a href="https://www.linkedin.com/in/supergarotinho/"><img src="https://raw.githubusercontent.com/supergarotinho/supergarotinho/main/linkedin.svg" alt="Anderson Santos | LinkedIn" width="21px"/></a>
+### 🤝 Connect with me: <a href="https://www.linkedin.com/in/andersonrss/"><img src="https://raw.githubusercontent.com/supergarotinho/supergarotinho/main/linkedin.svg" alt="Anderson Santos | LinkedIn" width="21px"/></a>
 
 
 ### Statistics
